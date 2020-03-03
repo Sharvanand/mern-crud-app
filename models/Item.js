@@ -8,7 +8,7 @@ const ItemSchema = new Schema({
     type: String,
     required: true
   },
-  post: {
+  position: {
     type: String,
     required: true
   },
